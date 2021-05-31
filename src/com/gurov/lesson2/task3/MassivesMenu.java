@@ -3,6 +3,9 @@ package com.gurov.lesson2.task3;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+    The task is recommended for an array with a large number of elements
+ */
 public class MassivesMenu {
 
     public static void main(String[] args){
